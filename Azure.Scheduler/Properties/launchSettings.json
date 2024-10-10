@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "Azure.Scheduler": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7263",
+      "launchBrowser": false
+    }
+  }
+}
